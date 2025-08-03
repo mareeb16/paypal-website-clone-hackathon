@@ -1,0 +1,152 @@
+.sign{
+    color: darkblue;
+}
+.mobile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.payment{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.pizza{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.earth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.logos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.million{
+    background-color: darkblue;
+}
+
+.millions{
+    color: white;
+}
+
+.box{
+    
+    width: 50px; 
+    height: 70px; 
+    background-color: #3498db; 
+    border: 2px solid #2980b9;
+    border-radius: 15px; 
+    padding: 20px; 
+    color: white; 
+    text-align: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.boxes{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+.bottom{
+    align-items: center;
+    justify-content: center;
+}
+
+.payPal{
+    margin-left: 220px;
+}
+
+ul{
+    display: flex;
+    margin-left: 220px;
+}
+
+.my-list li {
+    
+    padding: 10px;
+    margin-bottom: 5px;
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+    list-style-type: none;
+    
+  }
+  
+  .my-list li:hover {
+    
+    
+    cursor: pointer; /* Indicates the item is interactive */
+  }
+
+
+
+  .suiii{
+    display: flex;
+
+  }
+
+  .grey{
+    color: lightgray;
+  }
+
+  .navdown{
+    background-color: darkblue;
+  }
+  
+  .heads{
+    color: white;
+    font-size: 100px;
+  }
+
+  .headss{
+    color: white;
+  }
+
+
+  .headsss{
+    color: lightskyblue;
+  }
+
+
+  .qr{
+    margin-left: 650px;
+  }
+
+
+  .bar{
+    display: flex;
+    gap: 30px;
+  }
+
+  .suiiiiiii{
+    display: flex;
+    gap: 30px;
+  }
+
+  .sii{
+    color: white;
+  }
